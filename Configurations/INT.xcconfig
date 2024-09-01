@@ -1,0 +1,13 @@
+//
+//  INT.xcconfig
+//  Xcode Configurations
+//
+//  Created by egesucu on 1.09.2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_URL = https:/$()/api.lyrics.ovh/v1/beatles/Lucy in the Sky with Diamonds
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = INT
+PRODUCT_BUNDLE_IDENTIFIER = tr.com.egesucu.XcodeConfig.INT

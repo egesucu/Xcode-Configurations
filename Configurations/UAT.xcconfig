@@ -1,0 +1,13 @@
+//
+//  UAT.xcconfig
+//  Xcode Configurations
+//
+//  Created by egesucu on 1.09.2024.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+API_URL = https:/$()/api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400
+SWIFT_ACTIVE_COMPILATION_CONDITIONS = UAT
+PRODUCT_BUNDLE_IDENTIFIER = tr.com.egesucu.XcodeConfig.UAT
